@@ -1,6 +1,7 @@
-# vue-cli-tailwindcss-axios-starter
+# vueadvice
 
-Vue 3 Boilerplate with Tailwind and Axios
+
+https://vevice.netlify.app/
 
 
 ## Project setup

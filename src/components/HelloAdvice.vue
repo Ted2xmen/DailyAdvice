@@ -20,7 +20,7 @@
         box-shadow: rgba(2, 109, 8, 0.35) 0px 5px 15px;
       "
     >
-      <h1 class="mt-5 text-4xl text leading-snug ">
+      <h1 class="mt-5 text-4xl textx leading-snug ">
         {{ advice }}
 
 
@@ -70,26 +70,3 @@ export default {
 };
 </script>
 
-
-
-
-<style>
-body {
-  background-color: rgb(15, 17, 17);
-}
-
-.text {
-  font-style: italic;
-}
-.centered {
-  display: grid;
-  place-items: center;
-  height: 100vh;
-  width: 100%;
-  
-}
-.p-10rem {
-padding: 10rem;
-}
-
-</style>
